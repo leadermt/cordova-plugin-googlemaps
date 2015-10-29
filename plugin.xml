@@ -42,9 +42,6 @@
             </feature>
         </config-file>
 
-        <framework src="com.google.android.gms:play-services-maps:+" />
-        <framework src="com.google.android.gms:play-services-location:+" />
-
         <!-- plugin src files -->
         <source-file src="src/android/plugin/google/maps/AsyncLicenseInfo.java" target-dir="src/plugin/google/maps" />
         <source-file src="src/android/plugin/google/maps/AsyncKmlParser.java" target-dir="src/plugin/google/maps" />
